@@ -1,0 +1,9 @@
+# credentials and collected data stay local
+secrets.toml
+data/
+
+# local notes (not part of the sample)
+REVIEW_NOTES.md
+
+__pycache__/
+.pytest_cache/

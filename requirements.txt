@@ -1,0 +1,5 @@
+# Python 3.11+ (tomllib). portfolio/stats.py uses the standard library only.
+requests>=2.28
+cryptography>=41
+# tests
+pytest>=7.0
